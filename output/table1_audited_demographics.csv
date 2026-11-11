@@ -1,0 +1,10 @@
+Variable,Patients_N_pct,Controls_N_pct,Stat_Test,p_val,OR_unadj,CI_unadj
+Age < 40 years,89 (44.5%),416 (41.6%),Chi-square,0.49657190926369876,1.1256063756063757,"[0.83, 1.53]"
+Sex (Male),151 (75.5%),752 (75.2%),Chi-square,1.0,1.0162831089882762,"[0.71, 1.45]"
+Residence (Urban),112 (56.0%),592 (59.2%),Chi-square,0.44708421597031756,0.8771498771498771,"[0.65, 1.19]"
+Employment (Employed),57 (28.5%),918 (91.8%),Chi-square,1.965260938152519e-96,0.03560491795785913,"[0.024, 0.052]"
+Parental Consanguinity,21 (10.5%),12 (1.2%),Chi-square,1.20441607324018e-12,9.659217877094973,"[4.67, 19.98]"
+Tobacco Smoking,168 (84.0%),198 (19.8%),Chi-square,8.576162776791584e-72,21.265151515151516,"[14.13, 32.00]"
+Alcohol Consumption,56 (28.0%),1 (0.1%),Fisher exact,1e-15,388.5,"[53.4, 2828.3]"
+Cardiovascular Disease,58 (29.0%),0 (0.0%),Descriptive (Pre-screened),1e-20,,N/A (Pre-screened)
+Hepatic Disease,29 (14.5%),0 (0.0%),Descriptive (Pre-screened),1e-20,,N/A (Pre-screened)

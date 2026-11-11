@@ -1,0 +1,13 @@
+Outcome,Biomarker,Estimate,95CI,P_value,E_Value_Point,E_Value_CI
+Depressive Disorder,"CRP (log-transformed, per SD)",1.3161806251914572,"[1.12, 1.55]",0.0011147516675259,1.9612781472281782,1.4751871254789204
+Depressive Disorder,"GGT (log-transformed, per SD)",1.1354815173525037,"[0.95, 1.36]",0.1724063522657677,1.5277018111883027,1.0
+Depressive Disorder,"Uric Acid (sex-standardized, per SD)",1.0733976919896502,"[0.90, 1.28]",0.4339088680883624,1.3540841953685225,1.0
+Cardiovascular Disease,"CRP (log-transformed, per SD)",1.539932175526377,"[1.21, 1.96]",0.0004648345011613,2.4517758735881796,1.712221980133366
+Cardiovascular Disease,"GGT (log-transformed, per SD)",1.1081900370228213,"[0.90, 1.37]",0.3372867173924837,1.4544487858419965,1.0
+Cardiovascular Disease,"Uric Acid (sex-standardized, per SD)",1.110203885816047,"[0.89, 1.39]",0.3580727785346529,1.4599877937720924,1.0
+Suicide Attempt,"CRP (log-transformed, per SD)",1.5383144118731864,"[1.08, 2.18]",0.0160163982274101,2.44831266346687,1.384318421953611
+Suicide Attempt,"GGT (log-transformed, per SD)",1.5998510829903283,"[1.10, 2.33]",0.0140286236655782,2.5794797905908142,1.4306461316133765
+Suicide Attempt,"Uric Acid (sex-standardized, per SD)",1.00177374448895,"[0.70, 1.43]",0.992220487266576,1.0439269253708496,1.0
+Judicial History / Criminal Justice,"CRP (log-transformed, per SD)",1.541564350042168,"[0.98, 2.44]",0.0637342819635633,2.455269059058579,1.0
+Judicial History / Criminal Justice,"GGT (log-transformed, per SD)",0.6698000336083233,"[0.44, 1.02]",0.0635953394768205,2.3508960998644945,1.0
+Judicial History / Criminal Justice,"Uric Acid (sex-standardized, per SD)",1.6787513483531884,"[1.05, 2.69]",0.0319203735266828,2.7462038022097808,1.2646108525347883
